@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[users2]
+(
+	[FINE] INT NOT NULL PRIMARY KEY, 
+    [SEC.NO] VARCHAR(50) NULL
+)
